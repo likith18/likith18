@@ -91,10 +91,6 @@ life()  # Let's run this thing!
 - ♟️ Playing chess (and pretending I understand what's happening)
 - 🍳 Cooking gourmet meals (if by gourmet you mean microwavable)
 
-<div align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXBreWFkdjA0cDR3bnRwYTJlNW00MjhvNTRlNGNnOWQzNXcxanJ5ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUNd9UuxgIHq5yWDvO/giphy.webp" width="500" alt="blushing" />
-</div>
-
 ## 📊 My GitHub Stats (or "Proof That I Sometimes Leave My Cave")
 
 <div align="center">
