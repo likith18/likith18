@@ -126,7 +126,7 @@ life()  # Let's run this thing!
   <a href="mailto:liki18082003th@gmail.com">
     <img src="https://img.shields.io/badge/Email-Send%20a%20digital%20pigeon-D14836?style=for-the-badge&logo=gmail" />
   </a>
-  <a href="https://www.instagram.com/yourusername/">
+  <a href="https://www.instagram.com/likith_amarendra/">
     <img src="https://img.shields.io/badge/Instagram-Follow%20my%20pixel%20perfect%20life-E4405F?style=for-the-badge&logo=instagram" />
   </a>
 </div>
