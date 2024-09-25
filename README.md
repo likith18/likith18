@@ -114,6 +114,23 @@ life()  # Let's run this thing!
 4. 🤖 Selenium: Automating the web, because clicking is so 2010
 5. 🧪 Cypress: Testing code and patience, simultaneously
 
+## 🎨 Peek into My Digital Playground (Portfolio)
+
+<div align="center">
+  <h3>🚀 Ready to see where the magic happens? 🎩✨</h3>
+  <a href="https://likith18.github.io/xOtic/" target="_blank">
+    <img src="https://media.giphy.com/media/3o7TKUM3IgJBX2as9O/giphy.gif" width="200" alt="Portal to Portfolio" />
+  </a>
+  <br>
+  <a href="https://likith18.github.io/xOtic/" target="_blank">
+    <img src="https://img.shields.io/badge/🌟_Explore_My_xOtic_Portfolio_🌟-Click_to_Enter_the_Matrix-ff69b4?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</div>
+
+<div align="center">
+  <i>*Warning: May cause extreme awe and sudden urge to collaborate!</i>
+</div>
+
 ## 🌐 Join My Tech Adventure!
 
 <div align="center">
