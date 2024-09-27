@@ -40,7 +40,7 @@ I'm Likith, a code-wielding, pixel-pushing, bug-squashing enthusiast on a missio
 <i>Turning coffee into code since 2003</i>
 
 ### 🔮 Mystical Arts
-<img src="https://skillicons.dev/icons?i=blender,unreal,figma,selenium,cypress" />
+<img src="https://skillicons.dev/icons?i=blender,unreal,figma,selenium,cypress,git" />
 <br>
 <i>Because real magic is making the client happy</i>
 
